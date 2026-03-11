@@ -1,0 +1,16 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0;
+}
+
+div{
+    width: 100%;
+    border-top: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
